@@ -1,12 +1,12 @@
-# Space_Dashboard
+# Unicorn_Dashboard
 
-ABOUT DATA
+#ABOUT DATA
 
 Private companies with a valuation over $1 billion as of March 2022, including each company's current valuation, funding, country of origin, industry, select investors, and the years they were founded and became unicorns.
 This dataset contains a csv table with 1,074 records, one for each company.
 #mavenunicornchallenge
 
-DATA WRANGLING
+#DATA WRANGLING
 
 Conducted simple data wrangling and data cleaning:
 
